@@ -1,0 +1,153 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+ul,
+ol,
+a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+h2 {
+    font-weight: 700;
+    line-height: 1.11;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.logo,
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+
+.logo span {
+    color: #2e2f42;
+}
+
+.item {
+    color: #2e2f42;
+    font-weight: 500;
+}
+
+.item:hover,
+.item:focus {
+    color: #404BBF;
+}
+
+.item:active {
+    text-decoration: underline;
+}
+
+.address {
+    font-style: normal;
+}
+
+.address-item {
+    color: #434455;
+}
+
+.item-address:hover,
+.item-address:focus {
+    color: #404BBF;
+}
+
+.top-section {
+    background-color: #2e2f42;
+}
+
+.top-title {
+    text-align: center;
+    color: #ffffff;
+}
+
+.order-button {
+    background-color: #4D5AE5;
+    color: #ffffff;
+    border: none;
+    font-weight: 500;
+    cursor: pointer;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.order-button:hover,
+.order-button:focus {
+    background-color: #404BBF;
+}
+
+.title-feature {
+    color: #2e2f42;
+    text-transform: capitalize;
+}
+
+.team-section {
+    background-color: #F4F4FD;
+}
+
+.team-title {
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.team-card {
+    background-color: #ffffff;
+}
+
+.team-name {
+    color: #2e2f42;
+}
+
+.portfolio-section {
+    background-color: #ffffff;
+}
+
+.portfolio-title {
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.portfolio-name {
+    color: #2E2F42;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.footer-span {
+    color: #f4f4fd;
+}
+
+.footer-text {
+    color: #F4F4FD;
+}
