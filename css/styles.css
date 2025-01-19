@@ -36,7 +36,7 @@ h3 {
     letter-spacing: 0.02em;
 }
 
-.logo,
+.logo-type,
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -48,7 +48,7 @@ h3 {
     text-decoration: none;
 }
 
-.logo span {
+.logo-type span {
     color: #2e2f42;
 }
 
