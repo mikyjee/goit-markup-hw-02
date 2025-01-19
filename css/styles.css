@@ -6,6 +6,7 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
     background-color: #ffffff;
+    color: #434455;
 }
 
 ul,
@@ -44,6 +45,7 @@ h3 {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-align: center;
     color: #4D5AE5;
     text-decoration: none;
 }
@@ -84,6 +86,8 @@ h3 {
 }
 
 .top-title {
+    text-align: center;
+    color: #ffffff;
     text-align: center;
     color: #ffffff;
 }
